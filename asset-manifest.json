@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/delicious-world/static/css/main.7acaea2f.css",
-    "main.js": "/delicious-world/static/js/main.07d3183d.js",
+    "main.js": "/delicious-world/static/js/main.7367bc36.js",
     "index.html": "/delicious-world/index.html",
     "main.7acaea2f.css.map": "/delicious-world/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/delicious-world/static/js/main.07d3183d.js.map"
+    "main.7367bc36.js.map": "/delicious-world/static/js/main.7367bc36.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.7367bc36.js"
   ]
 }
