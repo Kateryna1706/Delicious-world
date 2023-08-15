@@ -44,7 +44,7 @@ export const LoginForm = () => {
             <Field type="password" name="password" />
             <ErrorMessage name="password" component="div" />
           </Label>
-          <Button type="submit">Register</Button>
+          <Button type="submit">Login</Button>
         </Form>
       </Formik>
     </FormLogin>

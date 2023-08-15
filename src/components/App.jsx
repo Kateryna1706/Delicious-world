@@ -1,8 +1,8 @@
-import { Home } from 'pages/Home';
-import { Login } from 'pages/Login';
-import { Profile } from 'pages/Profile';
-import { Recipes } from 'pages/Recipes';
-import { Register } from 'pages/Register';
+import { Home } from 'pages/HomePage';
+import { Login } from 'pages/LoginPage';
+import { Profile } from 'pages/ProfilePage';
+import { Recipes } from 'pages/RecipesPage';
+import { Register } from 'pages/RegisterPage';
 import { Route, Routes } from 'react-router-dom';
 import { AppBar } from './AppBar/AppBar';
 
