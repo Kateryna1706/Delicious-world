@@ -9,6 +9,7 @@ export const Hero = () => {
           <span>Find your recipe</span>
           <Input type="text" name="recipe" />
         </Label>
+        <a href="https://platform.fatsecret.com">Powered by FatSecret</a>
       </div>
     </HeroContainer>
   );
